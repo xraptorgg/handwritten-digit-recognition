@@ -7,5 +7,5 @@ Implementation of Yan LeCun et al., [Gradient-Based Learning Applied to Document
 The Jupyter Notebook contains details about the architecture and implementation steps, the Python script contains the code.
 
 <div>
-<img src="https://cdn.discordapp.com/attachments/418819379174572043/1061689521760129175/filters.jpg" width="800" alt = "Yan LeCun et al., Gradient-Based Learning Applied to Document Recognition">
+<img src="https://cdn.discordapp.com/attachments/418819379174572043/1061739697900105748/image.png" width="800" alt = "Yan LeCun et al., Gradient-Based Learning Applied to Document Recognition">
 </div>
